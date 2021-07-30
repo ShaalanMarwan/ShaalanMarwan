@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shaalanmarwan/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/shaalan_marwan)
-[<img align="left" alt="gmail badget"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:salsanjary@gmail.com)
+[<img align="left" alt="gmail badget" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:salsanjary@gmail.com)
 
 <br/>
 <br/>
@@ -34,6 +34,4 @@ Here are some ideas to get you started:
 <br/>
 <img align="left" alt="materialUi" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<!-- <img align="left" alt="router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> -->
-<br>
-<br>
+
