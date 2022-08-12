@@ -3,13 +3,13 @@
 <!--
 **ShaalanMarwan/ShaalanMarwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:-->
 -->
-<h1 style="center">Hi there , I am Shaalan Marwan</h1>
-- 🔭 I’m currently working on software developer </br>
+<!-- <h1 style="center">Hi there , I am Shaalan Marwan</h1> -->
+<!-- - 🔭 I’m currently working on software developer </br> -->
 <!-- - 🌱 I’m currently learning to be Full Stack developer </br>  -->
 <!-- -- 👯 I’m looking to collaborate on ... </br> -->
-- 🤔 I’m looking for help with advance topics</br>
+<!-- - 🤔 I’m looking for help with advance topics</br> -->
 <!-- - 💬 Ask me about -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...-->
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img align="left" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<!-- <img align="left" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> -->
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
