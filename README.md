@@ -12,7 +12,7 @@
 <!-- - 🤔 I’m looking for help with advance topics</br> -->
 <!-- - 💬 Ask me about -->
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ...-->
+<!-- - ⚡ Fun fact: ... -->
 
 # Shaalan Marwan
 
@@ -44,11 +44,15 @@ Recently, I have become increasingly interested in the fields of machine learnin
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
+## How can we enjoy together 
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shaalanmarwan/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/shaalan_marwan)
 [<img align="left" alt="gmail badget" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:salsanjary@gmail.com)
+
+
+[![Shaalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaalanmarwan98&show_icons=true&theme=radical)](https://github.com/shaalanmarwan98/github-readme-stats)
 
 
 
