@@ -25,6 +25,7 @@ Full-stack software engineer with 3 years of experience working on various proje
 
 Recently, I have become increasingly interested in the fields of machine learning and data engineering. I have been immersing myself in these topics, taking online courses, attending workshops and reading articles, with the goal of gaining more knowledge and experience in this area. I am excited about the potential of intelligent systems and how they can be used to solve real-world problems.
 
+# Skills and Expertise
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
