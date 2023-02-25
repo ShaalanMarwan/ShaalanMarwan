@@ -45,7 +45,18 @@ Recently, I have become increasingly interested in the fields of machine learnin
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
-## How can we enjoy together 
+## How can we enjoy together?
+
+In addition to coding, I enjoy spending time on hobbies such as:
+
+- Playing board games like Chess and Dominoes to Ride
+- Exploring new hiking trails and camping spots
+- Watching movies and TV shows, especially sci-fi and biography genres
+- Reading books on various topics, from history to psychology
+- Playing football ⚽️ match or riding horse
+
+If you share any of these interests, let's connect and plan a fun activity together!
+ 
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shaalanmarwan/)
