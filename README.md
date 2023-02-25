@@ -16,7 +16,7 @@
 
 # Shaalan Marwan
 
-[Email](mailto:shaalanmarwan98@gmail.com) | [Phone](tel:+9647710408906) | [LinkedIn](https://www.linkedin.com/in/shaalanmarwan/) | [GitHub](https://github.com/ShaalanMarwan)
+[Email](mailto:shaalanmarwan98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shaalanmarwan/) | [GitHub](https://github.com/ShaalanMarwan)
 
 ---
 
