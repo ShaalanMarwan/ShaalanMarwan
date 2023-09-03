@@ -13,6 +13,7 @@
 <!-- - 💬 Ask me about -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+<a href="https://app.daily.dev/shaalan"><img src="https://api.daily.dev/devcards/a6baaecbf8444a11b0057e4d0351bb29.png?r=k8d" width="400" alt="Shaalan Marwan's Dev Card"/></a>
 
 # Shaalan Marwan
 
