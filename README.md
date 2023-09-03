@@ -13,7 +13,6 @@
 <!-- - 💬 Ask me about -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-<a href="https://app.daily.dev/shaalan"><img src="https://api.daily.dev/devcards/a6baaecbf8444a11b0057e4d0351bb29.png?r=k8d" width="400" alt="Shaalan Marwan's Dev Card"/></a>
 
 # Shaalan Marwan
 
@@ -54,7 +53,7 @@ In addition to coding, I enjoy spending time on hobbies such as:
 - Exploring new hiking trails and camping spots
 - Watching movies and TV shows, especially sci-fi and biography genres
 - Reading books on various topics, from history to psychology
-- Playing football ⚽️ match or riding horse
+- Playing football ⚽️ matches or riding horse
 
 If you share any of these interests, let's connect and plan a fun activity together!
  
@@ -66,6 +65,7 @@ If you share any of these interests, let's connect and plan a fun activity toget
 
 
 ##
+<a href="https://app.daily.dev/shaalan"><img src="https://github.com/ShaalanMarwan/ShaalanMarwan/blob/master/devcard.svg" width="400" alt="Shaalan Marwan's Dev Card"/></a>
 
 [![Shaalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaalanMarwan&show_icons=true&theme=radical)](https://github.com/shaalanmarwan98/github-readme-stats)
 
