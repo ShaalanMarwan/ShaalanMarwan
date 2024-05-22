@@ -65,7 +65,7 @@ If you share any of these interests, let's connect and plan a fun activity toget
 
 
 ##
-<a href="https://app.daily.dev/shaalan"><img src="https://github.com/ShaalanMarwan/ShaalanMarwan/blob/master/devcard.svg" width="400" alt="Shaalan Marwan's Dev Card"/></a>
+<a href="https://app.daily.dev/shaalan"><img src="https://github.com/ShaalanMarwan/ShaalanMarwan/blob/master/devcard.png" width="400" alt="Shaalan Marwan's Dev Card"/></a>
 
 [![Shaalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaalanMarwan&show_icons=true&theme=radical)](https://github.com/shaalanmarwan98/github-readme-stats)
 
