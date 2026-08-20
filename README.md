@@ -63,8 +63,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaalanMarwan&show_icons=true&theme=tokyonight" alt="Shaalan's GitHub stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaalanMarwan&layout=compact&theme=tokyonight" alt="Top Languages" height="192px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShaalanMarwan&show_icons=true&theme=tokyonight" alt="Shaalan's GitHub stats" height="192px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShaalanMarwan&layout=compact&theme=tokyonight" alt="Top Languages" height="192px" />
   <br/><br/>
   <a href="https://app.daily.dev/shaalan"><img src="https://github.com/ShaalanMarwan/ShaalanMarwan/blob/master/devcard.png" width="350" alt="Shaalan Marwan's Dev Card"/></a>
 </div>
